@@ -1,0 +1,5 @@
+.text-area {
+  @apply w-full border border-gray-300 outline-none p-4 box-border rounded-lg;
+
+  min-height: 200px;
+}

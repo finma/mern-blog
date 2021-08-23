@@ -1,0 +1,19 @@
+.container {
+  @apply pt-10 max-w-screen-lg w-full m-auto;
+}
+
+.btn-create {
+  @apply w-32 mr-0 ml-auto;
+}
+
+.item-wrapper {
+  @apply flex flex-col flex-wrap sm:flex-row sm:justify-between;
+}
+
+.pagination-wrapper {
+  @apply flex max-w-sm m-auto;
+}
+
+.page {
+  @apply block py-2  bg-blue-600 text-white w-full text-center text-base font-semibold shadow-md  rounded-lg;
+}

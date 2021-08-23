@@ -1,0 +1,5 @@
+.footer {
+  @apply flex p-2 bg-gray-900 w-full h-12 text-white;
+
+  justify-content: center;
+}

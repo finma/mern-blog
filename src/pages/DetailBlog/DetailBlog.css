@@ -1,0 +1,23 @@
+.container {
+  @apply max-w-screen-lg m-auto;
+}
+
+.image {
+  @apply object-cover bg-center bg-cover w-full h-80;
+}
+
+.title {
+  @apply font-bold text-2xl text-gray-800 mt-6;
+}
+
+.author {
+  @apply font-normal text-base text-gray-600 mb-7;
+}
+
+.body {
+  @apply font-normal text-lg text-gray-700 tracking-wide leading-8 mb-7;
+}
+
+.btn-back {
+  @apply w-24 mb-4;
+}
